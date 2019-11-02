@@ -13,3 +13,15 @@ The purpose of this repository is to host a command line utility script that uti
 # Technical Details
 1 Ubuntu 19.p04
 2 Python 3
+
+# Project Structure
+Project folder structure is as follows:
+
+bin
+src
+.gitattributes
+.python-version
+README.md
+requirements.txt
+setup.py
+dist
