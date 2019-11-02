@@ -17,11 +17,8 @@ The purpose of this repository is to host a command line utility script that uti
 # Project Structure
 Project folder structure is as follows:
 
-bin
-src
-.gitattributes
-.python-version
-README.md
-requirements.txt
-setup.py
-dist
+1 bin
+2 src
+3 README.md
+4 requirements.txt
+5 dist
