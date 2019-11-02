@@ -16,7 +16,6 @@ The purpose of this repository is to host a command line utility script that uti
 
 # Project Structure
 Project folder structure is as follows:
-
 1 bin
 2 src
 3 README.md
