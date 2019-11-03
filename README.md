@@ -12,7 +12,7 @@ The purpose of this repository is to host a command line utility script that uti
 
 # Technical Details
 - Ubuntu 19.p04
-- Python 3
+- Python 3.7.3
 
 # Project Structure
 Project folder structure is as follows:
