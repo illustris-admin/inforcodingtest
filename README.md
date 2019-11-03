@@ -11,7 +11,7 @@ The purpose of this repository is to host a command line utility script that uti
 - Provide the choices of "json", "json-pretty" or "csv" for output
 
 # Technical Details
-- Ubuntu 19.p04
+- Ubuntu 19.04
 - Python 3.7.3
 
 # Project Structure
