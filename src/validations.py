@@ -1,6 +1,6 @@
-# Author: 		Doug Ortiz
+# Author: 		   Doug Ortiz
 # Creation Date:	November 02, 2019
-# Project:		InforCodingTest
+# Project:		   InforCodingTest
 # Updates:
 # ---
 

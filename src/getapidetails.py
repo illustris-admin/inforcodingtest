@@ -1,6 +1,6 @@
-# Author: 		Doug Ortiz
+# Author: 		   Doug Ortiz
 # Creation Date:	November 02, 2019
-# Project:		InforCodingTest
+# Project:		   InforCodingTest
 # Updates:
 # ---
 
@@ -13,7 +13,6 @@ import sys
 def main():
    # Get User Provided Parameters
    passedArguments = sys.argv[1:]
-
 
    # Validate the Arguments Count, credentials and region
    if (validations.validArgumentsCount(len(sys.argv)) and validations.validateCredentials(passedArguments[0]) 
