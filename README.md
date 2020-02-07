@@ -1,5 +1,5 @@
-# Infor Coding Test
-Infor Coding Test
+# Coding Test
+Coding Test
 
 # Repository Purpose
 The purpose of this repository is to host a command line utility script that utilizes an AWS Account or can provide details in a similar manner while meeting the following requirements:
